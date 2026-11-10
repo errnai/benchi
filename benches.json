@@ -1,0 +1,1541 @@
+{
+  "source": {
+    "title": "Seats",
+    "publisher": "City of Adelaide",
+    "url": "https://data.sa.gov.au/data/dataset/seats",
+    "csvUrl": "https://s3.ap-southeast-2.amazonaws.com/dmzweb.adelaidecitycouncil.com/OpenData/Seats/Seats.csv",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "downloadedAt": "2026-11-11",
+    "sourceUpdatedAt": "2025-11-06",
+    "filter": "Roadname and Road ID = RUNDLE MALL (1418)",
+    "note": "Asset register records. Sensory preference values and amenities are not included and remain unknown."
+  },
+  "benches": [
+    {
+      "id": "coa_st823",
+      "name": "Rundle Mall Type 1 FN06",
+      "place": "Rundle Mall",
+      "lat": -34.922999,
+      "lng": 138.600223,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST823",
+      "seatType": "Rundle Mall Type 1 FN06",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST823。座席タイプ: Rundle Mall Type 1 FN06。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 1 FN06",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1718",
+      "name": "Rundle Mall Elevated Podium FN10",
+      "place": "Rundle Mall",
+      "lat": -34.922998,
+      "lng": 138.599944,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1718",
+      "seatType": "Rundle Mall Elevated Podium FN10",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1718。座席タイプ: Rundle Mall Elevated Podium FN10。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Elevated Podium FN10",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1719",
+      "name": "Rundle Mall Type 2 FN07",
+      "place": "Rundle Mall",
+      "lat": -34.923,
+      "lng": 138.600284,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1719",
+      "seatType": "Rundle Mall Type 2 FN07",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1719。座席タイプ: Rundle Mall Type 2 FN07。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 2 FN07",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1720",
+      "name": "Rundle Mall Type 1 FN06",
+      "place": "Rundle Mall",
+      "lat": -34.922918,
+      "lng": 138.600356,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1720",
+      "seatType": "Rundle Mall Type 1 FN06",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1720。座席タイプ: Rundle Mall Type 1 FN06。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 1 FN06",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1721",
+      "name": "Rundle Mall Type3 FN08a",
+      "place": "Rundle Mall",
+      "lat": -34.922989,
+      "lng": 138.60038,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1721",
+      "seatType": "Rundle Mall Type3 FN08a",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1721。座席タイプ: Rundle Mall Type3 FN08a。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type3 FN08a",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1722",
+      "name": "Rundle Mall Type 4 FN08b",
+      "place": "Rundle Mall",
+      "lat": -34.922915,
+      "lng": 138.6004,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1722",
+      "seatType": "Rundle Mall Type 4 FN08b",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1722。座席タイプ: Rundle Mall Type 4 FN08b。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 4 FN08b",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1723",
+      "name": "Rundle Mall Type 5 FN08c",
+      "place": "Rundle Mall",
+      "lat": -34.922915,
+      "lng": 138.600418,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1723",
+      "seatType": "Rundle Mall Type 5 FN08c",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1723。座席タイプ: Rundle Mall Type 5 FN08c。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 5 FN08c",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1724",
+      "name": "Rundle Mall Type 1 FN06",
+      "place": "Rundle Mall",
+      "lat": -34.922914,
+      "lng": 138.600513,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1724",
+      "seatType": "Rundle Mall Type 1 FN06",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1724。座席タイプ: Rundle Mall Type 1 FN06。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 1 FN06",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1725",
+      "name": "Rundle Mall Type 1 FN06",
+      "place": "Rundle Mall",
+      "lat": -34.922972,
+      "lng": 138.600783,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1725",
+      "seatType": "Rundle Mall Type 1 FN06",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1725。座席タイプ: Rundle Mall Type 1 FN06。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 1 FN06",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1726",
+      "name": "Rundle Mall Type 4 FN08b",
+      "place": "Rundle Mall",
+      "lat": -34.922972,
+      "lng": 138.600822,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1726",
+      "seatType": "Rundle Mall Type 4 FN08b",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1726。座席タイプ: Rundle Mall Type 4 FN08b。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 4 FN08b",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1727",
+      "name": "Rundle Mall Type 5 FN08c",
+      "place": "Rundle Mall",
+      "lat": -34.922974,
+      "lng": 138.600852,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1727",
+      "seatType": "Rundle Mall Type 5 FN08c",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1727。座席タイプ: Rundle Mall Type 5 FN08c。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 5 FN08c",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1728",
+      "name": "Rundle Mall Type 5 FN08c",
+      "place": "Rundle Mall",
+      "lat": -34.922897,
+      "lng": 138.60084,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1728",
+      "seatType": "Rundle Mall Type 5 FN08c",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1728。座席タイプ: Rundle Mall Type 5 FN08c。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 5 FN08c",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1729",
+      "name": "Rundle Mall Type 4 FN08b",
+      "place": "Rundle Mall",
+      "lat": -34.922894,
+      "lng": 138.600865,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1729",
+      "seatType": "Rundle Mall Type 4 FN08b",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1729。座席タイプ: Rundle Mall Type 4 FN08b。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 4 FN08b",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1730",
+      "name": "Rundle Mall Type 1 FN06",
+      "place": "Rundle Mall",
+      "lat": -34.922894,
+      "lng": 138.600911,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1730",
+      "seatType": "Rundle Mall Type 1 FN06",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1730。座席タイプ: Rundle Mall Type 1 FN06。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 1 FN06",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1731",
+      "name": "Rundle Mall Type 2 FN07",
+      "place": "Rundle Mall",
+      "lat": -34.922894,
+      "lng": 138.600979,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1731",
+      "seatType": "Rundle Mall Type 2 FN07",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1731。座席タイプ: Rundle Mall Type 2 FN07。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 2 FN07",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1732",
+      "name": "Rundle Mall Type3 FN08a",
+      "place": "Rundle Mall",
+      "lat": -34.922946,
+      "lng": 138.601301,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1732",
+      "seatType": "Rundle Mall Type3 FN08a",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1732。座席タイプ: Rundle Mall Type3 FN08a。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type3 FN08a",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1733",
+      "name": "Rundle Mall Type 4 FN08b",
+      "place": "Rundle Mall",
+      "lat": -34.922955,
+      "lng": 138.601346,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1733",
+      "seatType": "Rundle Mall Type 4 FN08b",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1733。座席タイプ: Rundle Mall Type 4 FN08b。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 4 FN08b",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1734",
+      "name": "Rundle Mall Type 4 FN08b",
+      "place": "Rundle Mall",
+      "lat": -34.922957,
+      "lng": 138.601397,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1734",
+      "seatType": "Rundle Mall Type 4 FN08b",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1734。座席タイプ: Rundle Mall Type 4 FN08b。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 4 FN08b",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1735",
+      "name": "Rundle Mall Type 2 FN07",
+      "place": "Rundle Mall",
+      "lat": -34.922945,
+      "lng": 138.601522,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1735",
+      "seatType": "Rundle Mall Type 2 FN07",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1735。座席タイプ: Rundle Mall Type 2 FN07。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 2 FN07",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1736",
+      "name": "Rundle Mall Type3 FN08a",
+      "place": "Rundle Mall",
+      "lat": -34.922856,
+      "lng": 138.601586,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1736",
+      "seatType": "Rundle Mall Type3 FN08a",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1736。座席タイプ: Rundle Mall Type3 FN08a。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type3 FN08a",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1737",
+      "name": "Rundle Mall Type 1 FN06",
+      "place": "Rundle Mall",
+      "lat": -34.922845,
+      "lng": 138.601724,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1737",
+      "seatType": "Rundle Mall Type 1 FN06",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1737。座席タイプ: Rundle Mall Type 1 FN06。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 1 FN06",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1880",
+      "name": "Rundle Mall Elevated Podium FN10",
+      "place": "Rundle Mall",
+      "lat": -34.922652,
+      "lng": 138.60528,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1880",
+      "seatType": "Rundle Mall Elevated Podium FN10",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1880。座席タイプ: Rundle Mall Elevated Podium FN10。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Elevated Podium FN10",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1881",
+      "name": "Rundle Mall Elevated Podium FN10",
+      "place": "Rundle Mall",
+      "lat": -34.922735,
+      "lng": 138.605184,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1881",
+      "seatType": "Rundle Mall Elevated Podium FN10",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1881。座席タイプ: Rundle Mall Elevated Podium FN10。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Elevated Podium FN10",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1882",
+      "name": "Rundle Mall Type 2 FN07",
+      "place": "Rundle Mall",
+      "lat": -34.922764,
+      "lng": 138.60501,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1882",
+      "seatType": "Rundle Mall Type 2 FN07",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1882。座席タイプ: Rundle Mall Type 2 FN07。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 2 FN07",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1883",
+      "name": "Rundle Mall Type 1 FN06",
+      "place": "Rundle Mall",
+      "lat": -34.922657,
+      "lng": 138.604933,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1883",
+      "seatType": "Rundle Mall Type 1 FN06",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1883。座席タイプ: Rundle Mall Type 1 FN06。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 1 FN06",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1884",
+      "name": "Rundle Mall Type 4 FN08b",
+      "place": "Rundle Mall",
+      "lat": -34.922764,
+      "lng": 138.604898,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1884",
+      "seatType": "Rundle Mall Type 4 FN08b",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1884。座席タイプ: Rundle Mall Type 4 FN08b。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 4 FN08b",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1885",
+      "name": "Rundle Mall Type 2 FN07",
+      "place": "Rundle Mall",
+      "lat": -34.922666,
+      "lng": 138.60484,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1885",
+      "seatType": "Rundle Mall Type 2 FN07",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1885。座席タイプ: Rundle Mall Type 2 FN07。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 2 FN07",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1886",
+      "name": "Rundle Mall Type 1 FN06",
+      "place": "Rundle Mall",
+      "lat": -34.922776,
+      "lng": 138.604728,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1886",
+      "seatType": "Rundle Mall Type 1 FN06",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1886。座席タイプ: Rundle Mall Type 1 FN06。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 1 FN06",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1887",
+      "name": "Rundle Mall Type 4 FN08b",
+      "place": "Rundle Mall",
+      "lat": -34.922781,
+      "lng": 138.60466,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1887",
+      "seatType": "Rundle Mall Type 4 FN08b",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1887。座席タイプ: Rundle Mall Type 4 FN08b。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 4 FN08b",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1888",
+      "name": "Rundle Mall Type3 FN08a",
+      "place": "Rundle Mall",
+      "lat": -34.922778,
+      "lng": 138.604629,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1888",
+      "seatType": "Rundle Mall Type3 FN08a",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1888。座席タイプ: Rundle Mall Type3 FN08a。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type3 FN08a",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1889",
+      "name": "Rundle Mall Type 1 FN06",
+      "place": "Rundle Mall",
+      "lat": -34.922684,
+      "lng": 138.604665,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1889",
+      "seatType": "Rundle Mall Type 1 FN06",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1889。座席タイプ: Rundle Mall Type 1 FN06。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 1 FN06",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1890",
+      "name": "Rundle Mall Type 4 FN08b",
+      "place": "Rundle Mall",
+      "lat": -34.922684,
+      "lng": 138.604616,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1890",
+      "seatType": "Rundle Mall Type 4 FN08b",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1890。座席タイプ: Rundle Mall Type 4 FN08b。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 4 FN08b",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1891",
+      "name": "Rundle Mall Type 5 FN08c",
+      "place": "Rundle Mall",
+      "lat": -34.922683,
+      "lng": 138.604583,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1891",
+      "seatType": "Rundle Mall Type 5 FN08c",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1891。座席タイプ: Rundle Mall Type 5 FN08c。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 5 FN08c",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1892",
+      "name": "Rundle Mall Type3 FN08a",
+      "place": "Rundle Mall",
+      "lat": -34.92269,
+      "lng": 138.604483,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1892",
+      "seatType": "Rundle Mall Type3 FN08a",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1892。座席タイプ: Rundle Mall Type3 FN08a。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type3 FN08a",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1893",
+      "name": "Rundle Mall Type3 FN08a",
+      "place": "Rundle Mall",
+      "lat": -34.922807,
+      "lng": 138.604242,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1893",
+      "seatType": "Rundle Mall Type3 FN08a",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1893。座席タイプ: Rundle Mall Type3 FN08a。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type3 FN08a",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1894",
+      "name": "Rundle Mall Type 2 FN07",
+      "place": "Rundle Mall",
+      "lat": -34.922809,
+      "lng": 138.604184,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1894",
+      "seatType": "Rundle Mall Type 2 FN07",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1894。座席タイプ: Rundle Mall Type 2 FN07。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 2 FN07",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1895",
+      "name": "Rundle Mall Type 5 FN08c",
+      "place": "Rundle Mall",
+      "lat": -34.922716,
+      "lng": 138.603998,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1895",
+      "seatType": "Rundle Mall Type 5 FN08c",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1895。座席タイプ: Rundle Mall Type 5 FN08c。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 5 FN08c",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1896",
+      "name": "Rundle Mall Type 4 FN08b",
+      "place": "Rundle Mall",
+      "lat": -34.922715,
+      "lng": 138.604029,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1896",
+      "seatType": "Rundle Mall Type 4 FN08b",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1896。座席タイプ: Rundle Mall Type 4 FN08b。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 4 FN08b",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1897",
+      "name": "Rundle Mall Type 1 FN06",
+      "place": "Rundle Mall",
+      "lat": -34.92271,
+      "lng": 138.604092,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1897",
+      "seatType": "Rundle Mall Type 1 FN06",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1897。座席タイプ: Rundle Mall Type 1 FN06。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 1 FN06",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1898",
+      "name": "Rundle Mall Type3 FN08a",
+      "place": "Rundle Mall",
+      "lat": -34.92282,
+      "lng": 138.603914,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1898",
+      "seatType": "Rundle Mall Type3 FN08a",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1898。座席タイプ: Rundle Mall Type3 FN08a。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type3 FN08a",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1899",
+      "name": "Rundle Mall Type3 FN08a",
+      "place": "Rundle Mall",
+      "lat": -34.922822,
+      "lng": 138.603854,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1899",
+      "seatType": "Rundle Mall Type3 FN08a",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1899。座席タイプ: Rundle Mall Type3 FN08a。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type3 FN08a",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1900",
+      "name": "Rundle Mall Type 1 FN06",
+      "place": "Rundle Mall",
+      "lat": -34.922726,
+      "lng": 138.603799,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1900",
+      "seatType": "Rundle Mall Type 1 FN06",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1900。座席タイプ: Rundle Mall Type 1 FN06。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 1 FN06",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1901",
+      "name": "Rundle Mall Type 4 FN08b",
+      "place": "Rundle Mall",
+      "lat": -34.922727,
+      "lng": 138.603858,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1901",
+      "seatType": "Rundle Mall Type 4 FN08b",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1901。座席タイプ: Rundle Mall Type 4 FN08b。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 4 FN08b",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1902",
+      "name": "Rundle Mall Type3 FN08a",
+      "place": "Rundle Mall",
+      "lat": -34.922723,
+      "lng": 138.603891,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1902",
+      "seatType": "Rundle Mall Type3 FN08a",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1902。座席タイプ: Rundle Mall Type3 FN08a。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type3 FN08a",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1905",
+      "name": "Rundle Mall seat ST1905",
+      "place": "Rundle Mall",
+      "lat": -34.922746,
+      "lng": 138.603453,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1905",
+      "seatType": "Not specified",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1905。座席タイプ: 記載なし。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "座席タイプ未記載",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1906",
+      "name": "Rundle Mall Type3 FN08a",
+      "place": "Rundle Mall",
+      "lat": -34.922856,
+      "lng": 138.603305,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1906",
+      "seatType": "Rundle Mall Type3 FN08a",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1906。座席タイプ: Rundle Mall Type3 FN08a。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type3 FN08a",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1907",
+      "name": "Rundle Mall Type 1 FN06",
+      "place": "Rundle Mall",
+      "lat": -34.922864,
+      "lng": 138.603203,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1907",
+      "seatType": "Rundle Mall Type 1 FN06",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1907。座席タイプ: Rundle Mall Type 1 FN06。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 1 FN06",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1908",
+      "name": "Rundle Mall Type 4 FN08b",
+      "place": "Rundle Mall",
+      "lat": -34.922867,
+      "lng": 138.603126,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1908",
+      "seatType": "Rundle Mall Type 4 FN08b",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1908。座席タイプ: Rundle Mall Type 4 FN08b。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 4 FN08b",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1910",
+      "name": "Rundle Mall Type 4 FN08b",
+      "place": "Rundle Mall",
+      "lat": -34.922754,
+      "lng": 138.603006,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1910",
+      "seatType": "Rundle Mall Type 4 FN08b",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1910。座席タイプ: Rundle Mall Type 4 FN08b。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 4 FN08b",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1911",
+      "name": "Rundle Mall Type 1 FN06",
+      "place": "Rundle Mall",
+      "lat": -34.92277,
+      "lng": 138.602852,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1911",
+      "seatType": "Rundle Mall Type 1 FN06",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1911。座席タイプ: Rundle Mall Type 1 FN06。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 1 FN06",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1912",
+      "name": "Rundle Mall Type3 FN08a",
+      "place": "Rundle Mall",
+      "lat": -34.922777,
+      "lng": 138.602786,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1912",
+      "seatType": "Rundle Mall Type3 FN08a",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1912。座席タイプ: Rundle Mall Type3 FN08a。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type3 FN08a",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1913",
+      "name": "Rundle Mall Type3 FN08a",
+      "place": "Rundle Mall",
+      "lat": -34.922775,
+      "lng": 138.602764,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1913",
+      "seatType": "Rundle Mall Type3 FN08a",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1913。座席タイプ: Rundle Mall Type3 FN08a。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type3 FN08a",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1914",
+      "name": "Rundle Mall seat ST1914",
+      "place": "Rundle Mall",
+      "lat": -34.922875,
+      "lng": 138.602825,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1914",
+      "seatType": "Not specified",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1914。座席タイプ: 記載なし。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "座席タイプ未記載",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1915",
+      "name": "Rundle Mall Type3 FN08a",
+      "place": "Rundle Mall",
+      "lat": -34.92288,
+      "lng": 138.602442,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1915",
+      "seatType": "Rundle Mall Type3 FN08a",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1915。座席タイプ: Rundle Mall Type3 FN08a。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type3 FN08a",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1916",
+      "name": "Rundle Mall Type 1 FN06",
+      "place": "Rundle Mall",
+      "lat": -34.922879,
+      "lng": 138.602508,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1916",
+      "seatType": "Rundle Mall Type 1 FN06",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1916。座席タイプ: Rundle Mall Type 1 FN06。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 1 FN06",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1917",
+      "name": "Rundle Mall Type3 FN08a",
+      "place": "Rundle Mall",
+      "lat": -34.922876,
+      "lng": 138.602582,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1917",
+      "seatType": "Rundle Mall Type3 FN08a",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1917。座席タイプ: Rundle Mall Type3 FN08a。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type3 FN08a",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1918",
+      "name": "Rundle Mall Type 2 FN07",
+      "place": "Rundle Mall",
+      "lat": -34.922794,
+      "lng": 138.602345,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1918",
+      "seatType": "Rundle Mall Type 2 FN07",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1918。座席タイプ: Rundle Mall Type 2 FN07。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 2 FN07",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1919",
+      "name": "Rundle Mall Type3 FN08a",
+      "place": "Rundle Mall",
+      "lat": -34.922795,
+      "lng": 138.602298,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1919",
+      "seatType": "Rundle Mall Type3 FN08a",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1919。座席タイプ: Rundle Mall Type3 FN08a。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type3 FN08a",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1920",
+      "name": "Rundle Mall Type 4 FN08b",
+      "place": "Rundle Mall",
+      "lat": -34.922796,
+      "lng": 138.602273,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1920",
+      "seatType": "Rundle Mall Type 4 FN08b",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1920。座席タイプ: Rundle Mall Type 4 FN08b。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Type 4 FN08b",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1921",
+      "name": "Rundle Mall Elevated Podium FN10",
+      "place": "Rundle Mall",
+      "lat": -34.922902,
+      "lng": 138.602105,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1921",
+      "seatType": "Rundle Mall Elevated Podium FN10",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1921。座席タイプ: Rundle Mall Elevated Podium FN10。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Elevated Podium FN10",
+        "市公式データ"
+      ]
+    },
+    {
+      "id": "coa_st1922",
+      "name": "Rundle Mall Elevated Podium FN10",
+      "place": "Rundle Mall",
+      "lat": -34.922903,
+      "lng": 138.601995,
+      "photo": null,
+      "photoAlt": "",
+      "assetId": "ST1922",
+      "seatType": "Rundle Mall Elevated Podium FN10",
+      "attributes": {
+        "sunlight": null,
+        "crowd": null,
+        "view": null,
+        "cleanliness": null,
+        "appearance": null,
+        "hasBackrest": null,
+        "hasRoof": null
+      },
+      "comment": "City of Adelaide の公式座席台帳に登録された資産 ST1922。座席タイプ: Rundle Mall Elevated Podium FN10。日当たり、混雑、景観、清潔感、背もたれ、屋根は公開データに含まれないため未確認です。",
+      "tags": [
+        "Rundle Mall Elevated Podium FN10",
+        "市公式データ"
+      ]
+    }
+  ]
+}

@@ -9,14 +9,13 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="enhancements.css">
 </head>
 <body>
   <header class="topbar">
     <a class="brand" href="#top" aria-label="BenchMatch ホーム"><span class="brand-mark">b.</span><span>bench<span class="brand-light">match</span></span></a>
-    <div class="location-pill"><span class="live-dot"></span><span>ADELAIDE, SA</span><span class="pill-divider"></span><span>現在地周辺</span></div>
+    <div class="location-pill"><span class="live-dot"></span><span>ADELAIDE, SA</span><span class="pill-divider"></span><span>メリーゴーランド周辺</span></div>
     <button class="language-button" id="languageToggle" aria-label="Switch language">EN <span>↗</span></button>
   </header>
 
@@ -30,31 +29,49 @@
       <div class="sun-stamp" aria-hidden="true"><span>TAKE IT<br>SLOW</span><b>☀</b></div>
     </section>
 
+    <section class="range-section" aria-labelledby="range-title">
+      <div class="section-heading"><div><p class="section-kicker">01 / YOUR RANGE</p><h2 id="range-title">どこまで歩ける？</h2></div><span class="reset-label">移動できる範囲</span></div>
+      <div class="range-options" role="group" aria-label="移動できる範囲">
+        <button class="range-option" type="button" data-range="5" aria-pressed="false"><strong>5分</strong><span>すぐ近く</span></button>
+        <button class="range-option" type="button" data-range="10" aria-pressed="false"><strong>10分</strong><span>気軽に歩く</span></button>
+        <button class="range-option active" type="button" data-range="15" aria-pressed="true"><strong>15分</strong><span>少し足をのばす</span></button>
+        <button class="range-option" type="button" data-range="0" aria-pressed="false"><strong>指定なし</strong><span>すべて表示</span></button>
+      </div>
+    </section>
+
     <section class="preferences" aria-labelledby="pref-title">
-      <div class="section-heading"><div><p class="section-kicker">01 / YOUR MOOD</p><h2 id="pref-title">今日はどんな気分？</h2></div><span class="reset-label">スライダーで調整</span></div>
+      <div class="section-heading"><div><p class="section-kicker">02 / YOUR MOOD</p><h2 id="pref-title">今日はどんな気分？</h2></div><div class="pref-tools"><span class="reset-label">スライダーで調整</span><button id="resetPreferences" type="button" class="reset-preferences">リセット ↺</button></div></div>
       <div class="slider-grid">
         <div class="slider-card"><div class="slider-head"><span class="slider-icon sun-icon">☼</span><label for="sunlight">日当たり</label><span class="slider-value" id="sunlightValue">1</span></div><input id="sunlight" type="range" min="1" max="5" value="1"><div class="range-ends"><span>日陰がいい</span><span>日なたがいい</span></div></div>
         <div class="slider-card"><div class="slider-head"><span class="slider-icon crowd-icon">◌</span><label for="crowd">人の量</label><span class="slider-value" id="crowdValue">2</span></div><input id="crowd" type="range" min="1" max="5" value="2"><div class="range-ends"><span>静かに過ごす</span><span>にぎやかに</span></div></div>
         <div class="slider-card"><div class="slider-head"><span class="slider-icon view-icon">⌁</span><label for="view">景色・自然</label><span class="slider-value" id="viewValue">5</span></div><input id="view" type="range" min="1" max="5" value="5"><div class="range-ends"><span>街の景色</span><span>緑や景観</span></div></div>
         <div class="slider-card"><div class="slider-head"><span class="slider-icon clean-icon">✳</span><label for="cleanliness">清潔感</label><span class="slider-value" id="cleanlinessValue">4</span></div><input id="cleanliness" type="range" min="1" max="5" value="4"><div class="range-ends"><span>気にしない</span><span>きれいがいい</span></div></div>
         <div class="slider-card"><div class="slider-head"><span class="slider-icon style-icon">✧</span><label for="appearance">雰囲気</label><span class="slider-value" id="appearanceValue">4</span></div><input id="appearance" type="range" min="1" max="5" value="4"><div class="range-ends"><span>シンプル</span><span>おしゃれ</span></div></div>
-        <div class="slider-card facilities-card"><div class="slider-head"><span class="slider-icon seat-icon">▱</span><span class="facility-title">あるとうれしい</span></div><div class="toggle-list"><label class="toggle"><input id="hasBackrest" type="checkbox"><span class="toggle-ui"></span><span>背もたれ</span></label><label class="toggle"><input id="hasRoof" type="checkbox"><span class="toggle-ui"></span><span>屋根</span></label></div><p class="facility-note">選択すると条件に加わります</p></div>
+        <div class="slider-card facilities-card"><div class="slider-head"><span class="slider-icon seat-icon">▱</span><span class="facility-title">あるとうれしい</span></div><div class="toggle-list"><label class="toggle"><input id="hasBackrest" type="checkbox"><span class="toggle-ui"></span><span>背もたれあり</span></label><label class="toggle"><input id="noBackrest" type="checkbox"><span class="toggle-ui"></span><span>背もたれなし</span></label><label class="toggle"><input id="hasRoof" type="checkbox"><span class="toggle-ui"></span><span>屋根</span></label></div><p class="facility-note">設備は概算デモ値です。実測データではありません</p></div>
       </div>
-      <div class="search-action"><p>条件を選んだら、近くの候補をチェック</p><button id="searchButton" class="search-button">この条件でベンチを探す <span>→</span></button></div>
+      <div class="scenario-demo" aria-labelledby="scenario-title">
+        <div class="scenario-heading"><div><p class="section-kicker">TRY A SCENE</p><h3 id="scenario-title">シーン別に試す</h3></div><p id="scenarioStatus" aria-live="polite">シーンを選ぶと、好みとベンチの順位が切り替わります</p></div>
+        <div class="scenario-options" role="group" aria-label="場面のプリセット">
+          <button class="scenario-option" type="button" data-scenario="shadeQuiet" aria-pressed="false"><span class="scenario-icon">☂</span><span><strong>木陰で静かに</strong><small>落ち着ける場所</small></span></button>
+          <button class="scenario-option" type="button" data-scenario="sunnyPause" aria-pressed="false"><span class="scenario-icon">☀</span><span><strong>日なたでひと休み</strong><small>明るい場所</small></span></button>
+          <button class="scenario-option" type="button" data-scenario="greenEscape" aria-pressed="false"><span class="scenario-icon">✳</span><span><strong>緑を楽しむ</strong><small>緑や景色を優先</small></span></button>
+          <button class="scenario-option" type="button" data-scenario="cityBuzz" aria-pressed="false"><span class="scenario-icon">⌂</span><span><strong>街のにぎわい</strong><small>活気のある場所</small></span></button>
+        </div>
+      </div>
+      <div class="search-action"><p>好みを変えると候補を更新します。準備できたら結果へ</p><button id="searchButton" class="search-button">この条件でベンチを探す <span>→</span></button></div>
     </section>
 
     <section class="results-section" aria-labelledby="results-title">
-      <div class="results-heading"><div><p class="section-kicker">02 / YOUR MATCHES</p><h2 id="results-title">ぴったりの場所 <span class="result-count" id="resultCount">— SPOTS</span></h2></div><button class="sort-button" id="locateButton">◎ <span>現在地を使う</span></button></div>
+      <div class="results-heading"><div><p class="section-kicker">03 / YOUR MATCHES</p><h2 id="results-title">ぴったりの場所 <span class="result-count" id="resultCount">— SPOTS</span></h2></div><button class="sort-button" id="locateButton">◎ <span>メリーゴーランドを中心に</span></button></div>
       <div class="results-layout">
         <div class="cards-column"><div id="benchList" class="bench-list" aria-live="polite"></div><p class="data-note" id="dataNote"></p></div>
-        <div class="map-panel"><div class="map-topline"><span><i class="map-dot"></i> ADELAIDE CBD</span><span id="mapStatus">5 SPOTS NEAR YOU</span></div><div id="map" aria-label="ベンチの地図"></div><div class="map-bottom"><span class="map-legend"><i class="legend-user"></i> あなた</span><span class="map-legend"><i class="legend-bench"></i> ベンチ</span><button id="mapExpand" aria-label="地図を拡大">⤢</button></div></div>
+        <div class="map-panel"><div class="map-topline"><span><i class="map-dot"></i> RUNDLE MALL · CAROUSEL</span><span id="mapStatus">5 SPOTS NEAR YOU</span></div><div id="map" aria-label="ベンチの地図"></div><div class="map-bottom"><span class="map-legend"><i class="legend-user"></i> メリーゴーランド（出発地点）</span><span class="map-legend"><i class="legend-bench"></i> ベンチ</span><button id="mapExpand" aria-label="地図を拡大">⤢</button></div></div>
       </div>
     </section>
     <footer><span class="footer-brand">benchmatch<span>®</span></span><span>MADE FOR A MOMENT OF CALM · ADELAIDE</span><span>TEAM MEI & EREN <b>✳</b></span></footer>
   </main>
 
   <div class="modal-backdrop" id="modal" aria-hidden="true"><section class="detail-modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><button class="modal-close" id="modalClose" aria-label="閉じる">×</button><div id="modalContent"></div></section></div>
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-  <script src="app.js?v=2"></script>
+  <script src="app.js?v=11"></script>
 </body>
 </html>
